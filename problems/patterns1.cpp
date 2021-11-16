@@ -1,3 +1,6 @@
+//creating a program which takes number of rows and coloumns input 
+//and outputs no. of rows and coloums in "*" 
+
 #include<iostream>
 
 using namespace std;
